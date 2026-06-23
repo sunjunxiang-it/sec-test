@@ -1,0 +1,19 @@
+README.md
+  s_40f301a717d482::t_df613bbdb70265 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6829296358feaccf5608b3416217fca03ce8591d",
+  "prompts": {},
+  "sessions": {
+    "s_40f301a717d482": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "627e98b3-fb3b-441c-b003-ca0e9c72c407",
+        "model": "qianfan-code-latest"
+      },
+      "human_author": "sunjunxiangit <sunjunxiang-it@bestpay.com.cn>"
+    }
+  }
+}
