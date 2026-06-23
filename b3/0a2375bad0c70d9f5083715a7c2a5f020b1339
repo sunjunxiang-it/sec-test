@@ -1,0 +1,19 @@
+README.md
+  s_40f301a717d482::t_47061848ff2c37 7-20,25-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "b30a2375bad0c70d9f5083715a7c2a5f020b1339",
+  "prompts": {},
+  "sessions": {
+    "s_40f301a717d482": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "627e98b3-fb3b-441c-b003-ca0e9c72c407",
+        "model": "qianfan-code-latest"
+      },
+      "human_author": "sunjunxiangit <sunjunxiang-it@bestpay.com.cn>"
+    }
+  }
+}
